@@ -1,0 +1,22 @@
+.app-Style {
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  gap: 12px;
+}
+
+.square-Style {
+  width: 100px;
+  height: 100px;
+  border: 1px solid green;
+  border-radius: 10px;
+  display: flex;
+  /* align-items: center;
+  justify-content: center; */
+}
+
+.topBar {
+  margin-top: 20px;
+
+  text-align: center;
+}
